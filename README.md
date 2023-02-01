@@ -2,7 +2,7 @@
 Projeto de análise e predição dos casos da COVID19 mundialmente.
 
 <p align= "center">
-<img src="https://github.com/m4ximino/COVID_PREVISION/tree/main/img/coronavirus.webp" min-width="300px" max-width="200px" width="750px" ><br>
+<img src="https://github.com/m4ximino/COVID_PREVISION/blob/main/img/coronavirus.webp" min-width="300px" max-width="200px" width="750px" ><br>
  <br>E aí, carinha que mora logo ali? Bora prever uns dados!  
 </p>
 
@@ -10,7 +10,7 @@ Projeto de análise e predição dos casos da COVID19 mundialmente.
 ***
 Prever a quantidade de aumento/diminuição dos casos da covid19 em uma certa quantidade de meses.
 
-### **NOTEBOOKS** <img width="20px" src="https://github.com/m4ximino/COVID_PREVISION/tree/main/img/coronavirus.png" /> 
+### **NOTEBOOKS** <img width="20px" src="https://github.com/m4ximino/COVID_PREVISION/blob/main/img/coronavirus.png" /> 
 ***
 Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cansativo a leitura do projeto, portanto foi dividido em 3, sendo eles:
 
@@ -18,7 +18,7 @@ Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cans
 * [Análise Exploratória]
 * [Modelo de Aprendizado de Máquina]
 
-### **TECNOLOGIAS** <img width="20px" src="https://github.com/m4ximino/COVID_PREVISION/tree/main/img/coronavirus.png" /> 
+### **TECNOLOGIAS** <img width="20px" src="https://github.com/m4ximino/COVID_PREVISION/blob/main/img/coronavirus.png" /> 
 ***
 <div align = "left"> 
  Foram utilizados as seguintes bibliotecas da linguagem de programação python:
@@ -33,11 +33,11 @@ Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cans
 </div>
 
 
-### **CONCLUSÕES** <img width="20px" src="https://github.com/m4ximino/COVID_PREVISION/tree/main/img/coronavirus.png" /> 
+### **CONCLUSÕES** <img width="20px" src="https://github.com/m4ximino/COVID_PREVISION/blob/main/img/coronavirus.png" /> 
 ***
 
  <p align= "center">
-<img src="https://github.com/m4ximino/COVID_PREVISION/tree/main/img/giphy3.gif" min-width="300px" max-width="200px" width="500px" >
+<img src="https://github.com/m4ximino/COVID_PREVISION/blob/main/img/giphy3.gif" min-width="300px" max-width="200px" width="500px" >
 </p>
 
 
