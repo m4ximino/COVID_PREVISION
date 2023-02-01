@@ -6,7 +6,7 @@ Projeto de análise e predição dos casos da COVID19 mundialmente.
  <br>E aí, carinha que mora logo ali? Bora prever uns dados!  
 </p>
 
-### **OBJETIVO** <img width="20px" src="https://github.com/m4ximino/COVID_PREVISION/tree/main/img/coronavirus.png" /> 
+### **OBJETIVO** <img width="20px" src="https://github.com/m4ximino/COVID_PREVISION/blob/main/img/coronavirus.png" /> 
 ***
 Prever a quantidade de aumento/diminuição dos casos da covid19 em uma certa quantidade de meses.
 
