@@ -57,5 +57,5 @@ Mas não acaba por aqui! Ainda tem muitas coisas para fazer nesse projeto, como:
 </p>
 
 <p align= "left">
-Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
+Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato! Ainda irei aperfeiçoar
 </p>
